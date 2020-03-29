@@ -1,0 +1,6 @@
+E:\Data\GIT\csharp-dev\CSPractice8\SimpleLinqProject\bin\Debug\SimpleLinqProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice8\SimpleLinqProject\bin\Debug\SimpleLinqProject.exe
+E:\Data\GIT\csharp-dev\CSPractice8\SimpleLinqProject\bin\Debug\SimpleLinqProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice8\SimpleLinqProject\obj\Debug\SimpleLinqProject.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice8\SimpleLinqProject\obj\Debug\SimpleLinqProject.exe
+E:\Data\GIT\csharp-dev\CSPractice8\SimpleLinqProject\obj\Debug\SimpleLinqProject.pdb

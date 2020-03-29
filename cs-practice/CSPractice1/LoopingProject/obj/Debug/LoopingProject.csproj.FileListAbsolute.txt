@@ -1,0 +1,5 @@
+E:\Data\GIT\csharp-dev\CSPractice1\LoopingProject\bin\Debug\LoopingProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice1\LoopingProject\bin\Debug\LoopingProject.exe
+E:\Data\GIT\csharp-dev\CSPractice1\LoopingProject\bin\Debug\LoopingProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice1\LoopingProject\obj\Debug\LoopingProject.exe
+E:\Data\GIT\csharp-dev\CSPractice1\LoopingProject\obj\Debug\LoopingProject.pdb

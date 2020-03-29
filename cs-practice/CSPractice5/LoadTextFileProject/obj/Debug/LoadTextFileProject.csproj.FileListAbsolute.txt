@@ -1,0 +1,8 @@
+E:\Data\GIT\csharp-dev\CSPractice5\LoadTextFileProject\bin\Debug\LoadTextFileProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice5\LoadTextFileProject\bin\Debug\LoadTextFileProject.exe
+E:\Data\GIT\csharp-dev\CSPractice5\LoadTextFileProject\bin\Debug\LoadTextFileProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice5\LoadTextFileProject\obj\Debug\LoadTextFileProject.FrmLoadTextFile.resources
+E:\Data\GIT\csharp-dev\CSPractice5\LoadTextFileProject\obj\Debug\LoadTextFileProject.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice5\LoadTextFileProject\obj\Debug\LoadTextFileProject.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice5\LoadTextFileProject\obj\Debug\LoadTextFileProject.exe
+E:\Data\GIT\csharp-dev\CSPractice5\LoadTextFileProject\obj\Debug\LoadTextFileProject.pdb

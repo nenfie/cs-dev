@@ -1,0 +1,5 @@
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadTimerProject\bin\Debug\ThreadTimerProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadTimerProject\bin\Debug\ThreadTimerProject.exe
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadTimerProject\bin\Debug\ThreadTimerProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadTimerProject\obj\Debug\ThreadTimerProject.exe
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadTimerProject\obj\Debug\ThreadTimerProject.pdb

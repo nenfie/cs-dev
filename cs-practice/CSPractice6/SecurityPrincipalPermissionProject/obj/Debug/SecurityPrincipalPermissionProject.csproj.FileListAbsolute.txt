@@ -1,0 +1,5 @@
+E:\Data\GIT\csharp-dev\CSPractice6\SecurityPrincipalPermissionProject\bin\Debug\SecurityPrincipalPermissionProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice6\SecurityPrincipalPermissionProject\bin\Debug\SecurityPrincipalPermissionProject.exe
+E:\Data\GIT\csharp-dev\CSPractice6\SecurityPrincipalPermissionProject\bin\Debug\SecurityPrincipalPermissionProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice6\SecurityPrincipalPermissionProject\obj\Debug\SecurityPrincipalPermissionProject.exe
+E:\Data\GIT\csharp-dev\CSPractice6\SecurityPrincipalPermissionProject\obj\Debug\SecurityPrincipalPermissionProject.pdb

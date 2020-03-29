@@ -1,0 +1,6 @@
+E:\Data\GIT\csharp-dev\CSPractice2\ClassProject\bin\Debug\ClassProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice2\ClassProject\obj\Debug\ClassProject.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice2\ClassProject\bin\Debug\ClassProject.exe
+E:\Data\GIT\csharp-dev\CSPractice2\ClassProject\bin\Debug\ClassProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice2\ClassProject\obj\Debug\ClassProject.exe
+E:\Data\GIT\csharp-dev\CSPractice2\ClassProject\obj\Debug\ClassProject.pdb

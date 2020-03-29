@@ -1,0 +1,8 @@
+E:\Data\GIT\csharp-dev\CSPractice1\ConditionProject\bin\Debug\ConditionProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice1\ConditionProject\bin\Debug\ConditionProject.exe
+E:\Data\GIT\csharp-dev\CSPractice1\ConditionProject\bin\Debug\ConditionProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice1\ConditionProject\obj\Debug\ConditionProject.FrmCondition.resources
+E:\Data\GIT\csharp-dev\CSPractice1\ConditionProject\obj\Debug\ConditionProject.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice1\ConditionProject\obj\Debug\ConditionProject.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice1\ConditionProject\obj\Debug\ConditionProject.exe
+E:\Data\GIT\csharp-dev\CSPractice1\ConditionProject\obj\Debug\ConditionProject.pdb

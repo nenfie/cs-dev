@@ -1,0 +1,6 @@
+E:\Data\GIT\csharp-dev\CSPractice3\MethodProject\bin\Debug\MethodProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice3\MethodProject\bin\Debug\MethodProject.exe
+E:\Data\GIT\csharp-dev\CSPractice3\MethodProject\bin\Debug\MethodProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice3\MethodProject\obj\Debug\MethodProject.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice3\MethodProject\obj\Debug\MethodProject.exe
+E:\Data\GIT\csharp-dev\CSPractice3\MethodProject\obj\Debug\MethodProject.pdb

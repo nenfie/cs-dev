@@ -1,0 +1,2 @@
+E:\Data\GIT\csharp-dev\CSPractice8\LinqToSqlProject\bin\Debug\LinqToSqlProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice8\LinqToSqlProject\obj\Debug\LinqToSqlProject.csprojResolveAssemblyReference.cache

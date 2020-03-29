@@ -1,0 +1,8 @@
+E:\Data\GIT\csharp-dev\CSPractice4\MenuToolbarProject\bin\Debug\MenuToolbarProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice4\MenuToolbarProject\bin\Debug\MenuToolbarProject.exe
+E:\Data\GIT\csharp-dev\CSPractice4\MenuToolbarProject\bin\Debug\MenuToolbarProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice4\MenuToolbarProject\obj\Debug\MenuToolbarProject.FrmMenuToolbar.resources
+E:\Data\GIT\csharp-dev\CSPractice4\MenuToolbarProject\obj\Debug\MenuToolbarProject.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice4\MenuToolbarProject\obj\Debug\MenuToolbarProject.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice4\MenuToolbarProject\obj\Debug\MenuToolbarProject.exe
+E:\Data\GIT\csharp-dev\CSPractice4\MenuToolbarProject\obj\Debug\MenuToolbarProject.pdb

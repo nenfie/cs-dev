@@ -1,0 +1,6 @@
+E:\Data\GIT\csharp-dev\CSPractice3\DelegateProject\bin\Debug\DelegateProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice3\DelegateProject\bin\Debug\DelegateProject.exe
+E:\Data\GIT\csharp-dev\CSPractice3\DelegateProject\bin\Debug\DelegateProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice3\DelegateProject\obj\Debug\DelegateProject.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice3\DelegateProject\obj\Debug\DelegateProject.exe
+E:\Data\GIT\csharp-dev\CSPractice3\DelegateProject\obj\Debug\DelegateProject.pdb

@@ -1,0 +1,10 @@
+E:\Data\GIT\csharp-dev\CSPractice5\CreateExcelFileProject\bin\Debug\CreateExcelFileProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice5\CreateExcelFileProject\obj\Debug\CreateExcelFileProject.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice5\CreateExcelFileProject\obj\Debug\CreateExcelFileProject.csproj.ResolveComReference.cache
+E:\Data\GIT\csharp-dev\CSPractice5\CreateExcelFileProject\obj\Debug\CreateExcelFileProject.FrmCreateExcelFile.resources
+E:\Data\GIT\csharp-dev\CSPractice5\CreateExcelFileProject\obj\Debug\CreateExcelFileProject.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice5\CreateExcelFileProject\obj\Debug\CreateExcelFileProject.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice5\CreateExcelFileProject\bin\Debug\CreateExcelFileProject.exe
+E:\Data\GIT\csharp-dev\CSPractice5\CreateExcelFileProject\bin\Debug\CreateExcelFileProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice5\CreateExcelFileProject\obj\Debug\CreateExcelFileProject.exe
+E:\Data\GIT\csharp-dev\CSPractice5\CreateExcelFileProject\obj\Debug\CreateExcelFileProject.pdb

@@ -1,0 +1,9 @@
+E:\Data\GIT\csharp-dev\CSPractice1\CSPractice1\bin\Debug\CSPractice1.exe.config
+E:\Data\GIT\csharp-dev\CSPractice1\CSPractice1\bin\Debug\CSPractice1.exe
+E:\Data\GIT\csharp-dev\CSPractice1\CSPractice1\bin\Debug\CSPractice1.pdb
+E:\Data\GIT\csharp-dev\CSPractice1\CSPractice1\obj\Debug\CSPractice1.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice1\CSPractice1\obj\Debug\CSPractice1.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice1\CSPractice1\obj\Debug\CSPractice1.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice1\CSPractice1\obj\Debug\CSPractice1.exe
+E:\Data\GIT\csharp-dev\CSPractice1\CSPractice1\obj\Debug\CSPractice1.pdb
+E:\Data\GIT\csharp-dev\CSPractice1\CSPractice1\obj\Debug\CSPractice1.Form1.resources

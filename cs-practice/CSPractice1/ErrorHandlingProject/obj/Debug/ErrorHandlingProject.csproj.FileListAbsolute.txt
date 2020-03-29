@@ -1,0 +1,5 @@
+E:\Data\GIT\csharp-dev\CSPractice1\ErrorHandlingProject\bin\Debug\ErrorHandlingProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice1\ErrorHandlingProject\bin\Debug\ErrorHandlingProject.exe
+E:\Data\GIT\csharp-dev\CSPractice1\ErrorHandlingProject\bin\Debug\ErrorHandlingProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice1\ErrorHandlingProject\obj\Debug\ErrorHandlingProject.exe
+E:\Data\GIT\csharp-dev\CSPractice1\ErrorHandlingProject\obj\Debug\ErrorHandlingProject.pdb

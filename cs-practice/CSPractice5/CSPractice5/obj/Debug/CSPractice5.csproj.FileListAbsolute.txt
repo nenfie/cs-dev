@@ -1,0 +1,8 @@
+E:\Data\GIT\csharp-dev\CSPractice5\CSPractice5\bin\Debug\CSPractice5.exe.config
+E:\Data\GIT\csharp-dev\CSPractice5\CSPractice5\bin\Debug\CSPractice5.exe
+E:\Data\GIT\csharp-dev\CSPractice5\CSPractice5\bin\Debug\CSPractice5.pdb
+E:\Data\GIT\csharp-dev\CSPractice5\CSPractice5\obj\Debug\CSPractice5.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice5\CSPractice5\obj\Debug\CSPractice5.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice5\CSPractice5\obj\Debug\CSPractice5.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice5\CSPractice5\obj\Debug\CSPractice5.exe
+E:\Data\GIT\csharp-dev\CSPractice5\CSPractice5\obj\Debug\CSPractice5.pdb

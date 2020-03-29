@@ -1,0 +1,1 @@
+E:\Data\GIT\csharp-dev\CSPractice8\LinqToSqlProject2\bin\Debug\LinqToSqlProject2.exe.config

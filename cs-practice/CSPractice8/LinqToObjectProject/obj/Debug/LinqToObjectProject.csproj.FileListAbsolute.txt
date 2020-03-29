@@ -1,0 +1,5 @@
+E:\Data\GIT\csharp-dev\CSPractice8\LinqToObjectProject\bin\Debug\LinqToObjectProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice8\LinqToObjectProject\bin\Debug\LinqToObjectProject.exe
+E:\Data\GIT\csharp-dev\CSPractice8\LinqToObjectProject\bin\Debug\LinqToObjectProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice8\LinqToObjectProject\obj\Debug\LinqToObjectProject.exe
+E:\Data\GIT\csharp-dev\CSPractice8\LinqToObjectProject\obj\Debug\LinqToObjectProject.pdb

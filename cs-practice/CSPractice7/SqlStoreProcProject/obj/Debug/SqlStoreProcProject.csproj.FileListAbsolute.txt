@@ -1,0 +1,9 @@
+E:\Data\GIT\csharp-dev\CSPractice7\SqlStoreProcProject\bin\Debug\SqlStoreProcProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice7\SqlStoreProcProject\bin\Debug\SqlStoreProcProject.exe
+E:\Data\GIT\csharp-dev\CSPractice7\SqlStoreProcProject\bin\Debug\SqlStoreProcProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice7\SqlStoreProcProject\obj\Debug\SqlStoreProcProject.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice7\SqlStoreProcProject\obj\Debug\SqlStoreProcProject.FrmStoreProc.resources
+E:\Data\GIT\csharp-dev\CSPractice7\SqlStoreProcProject\obj\Debug\SqlStoreProcProject.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice7\SqlStoreProcProject\obj\Debug\SqlStoreProcProject.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice7\SqlStoreProcProject\obj\Debug\SqlStoreProcProject.exe
+E:\Data\GIT\csharp-dev\CSPractice7\SqlStoreProcProject\obj\Debug\SqlStoreProcProject.pdb

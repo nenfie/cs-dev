@@ -1,0 +1,6 @@
+E:\Data\GIT\csharp-dev\CSPractice6\MultiThreadSimpleProject\bin\Debug\MultiThreadSimpleProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice6\MultiThreadSimpleProject\bin\Debug\MultiThreadSimpleProject.exe
+E:\Data\GIT\csharp-dev\CSPractice6\MultiThreadSimpleProject\bin\Debug\MultiThreadSimpleProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice6\MultiThreadSimpleProject\obj\Debug\MultiThreadSimpleProject.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice6\MultiThreadSimpleProject\obj\Debug\MultiThreadSimpleProject.exe
+E:\Data\GIT\csharp-dev\CSPractice6\MultiThreadSimpleProject\obj\Debug\MultiThreadSimpleProject.pdb

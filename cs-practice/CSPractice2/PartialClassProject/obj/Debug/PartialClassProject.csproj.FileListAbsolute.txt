@@ -1,0 +1,6 @@
+E:\Data\GIT\csharp-dev\CSPractice2\PartialClassProject\bin\Debug\PartialClassProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice2\PartialClassProject\bin\Debug\PartialClassProject.exe
+E:\Data\GIT\csharp-dev\CSPractice2\PartialClassProject\bin\Debug\PartialClassProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice2\PartialClassProject\obj\Debug\PartialClassProject.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice2\PartialClassProject\obj\Debug\PartialClassProject.exe
+E:\Data\GIT\csharp-dev\CSPractice2\PartialClassProject\obj\Debug\PartialClassProject.pdb

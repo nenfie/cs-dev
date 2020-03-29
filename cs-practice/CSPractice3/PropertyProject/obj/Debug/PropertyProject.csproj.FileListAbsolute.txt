@@ -1,0 +1,6 @@
+E:\Data\GIT\csharp-dev\CSPractice3\PropertyProject\bin\Debug\PropertyProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice3\PropertyProject\obj\Debug\PropertyProject.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice3\PropertyProject\bin\Debug\PropertyProject.exe
+E:\Data\GIT\csharp-dev\CSPractice3\PropertyProject\bin\Debug\PropertyProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice3\PropertyProject\obj\Debug\PropertyProject.exe
+E:\Data\GIT\csharp-dev\CSPractice3\PropertyProject\obj\Debug\PropertyProject.pdb

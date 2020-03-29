@@ -1,0 +1,5 @@
+E:\Data\GIT\csharp-dev\CSPractice6\ParsingDataThreadProject2\bin\Debug\ParsingDataThreadProject2.exe.config
+E:\Data\GIT\csharp-dev\CSPractice6\ParsingDataThreadProject2\bin\Debug\ParsingDataThreadProject2.exe
+E:\Data\GIT\csharp-dev\CSPractice6\ParsingDataThreadProject2\bin\Debug\ParsingDataThreadProject2.pdb
+E:\Data\GIT\csharp-dev\CSPractice6\ParsingDataThreadProject2\obj\Debug\ParsingDataThreadProject2.exe
+E:\Data\GIT\csharp-dev\CSPractice6\ParsingDataThreadProject2\obj\Debug\ParsingDataThreadProject2.pdb

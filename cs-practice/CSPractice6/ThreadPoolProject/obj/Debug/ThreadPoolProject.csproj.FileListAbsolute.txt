@@ -1,0 +1,5 @@
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadPoolProject\bin\Debug\ThreadPoolProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadPoolProject\bin\Debug\ThreadPoolProject.exe
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadPoolProject\bin\Debug\ThreadPoolProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadPoolProject\obj\Debug\ThreadPoolProject.exe
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadPoolProject\obj\Debug\ThreadPoolProject.pdb

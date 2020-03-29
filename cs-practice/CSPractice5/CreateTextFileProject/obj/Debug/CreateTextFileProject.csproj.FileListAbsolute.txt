@@ -1,0 +1,8 @@
+E:\Data\GIT\csharp-dev\CSPractice5\CreateTextFileProject\bin\Debug\CreateTextFileProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice5\CreateTextFileProject\bin\Debug\CreateTextFileProject.exe
+E:\Data\GIT\csharp-dev\CSPractice5\CreateTextFileProject\bin\Debug\CreateTextFileProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice5\CreateTextFileProject\obj\Debug\CreateTextFileProject.FrmCreateTextFile.resources
+E:\Data\GIT\csharp-dev\CSPractice5\CreateTextFileProject\obj\Debug\CreateTextFileProject.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice5\CreateTextFileProject\obj\Debug\CreateTextFileProject.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice5\CreateTextFileProject\obj\Debug\CreateTextFileProject.exe
+E:\Data\GIT\csharp-dev\CSPractice5\CreateTextFileProject\obj\Debug\CreateTextFileProject.pdb

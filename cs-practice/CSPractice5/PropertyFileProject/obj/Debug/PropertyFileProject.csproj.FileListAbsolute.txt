@@ -1,0 +1,8 @@
+E:\Data\GIT\csharp-dev\CSPractice5\PropertyFileProject\bin\Debug\PropertyFileProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice5\PropertyFileProject\obj\Debug\PropertyFileProject.FrmPropertyFile.resources
+E:\Data\GIT\csharp-dev\CSPractice5\PropertyFileProject\obj\Debug\PropertyFileProject.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice5\PropertyFileProject\obj\Debug\PropertyFileProject.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice5\PropertyFileProject\bin\Debug\PropertyFileProject.exe
+E:\Data\GIT\csharp-dev\CSPractice5\PropertyFileProject\bin\Debug\PropertyFileProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice5\PropertyFileProject\obj\Debug\PropertyFileProject.exe
+E:\Data\GIT\csharp-dev\CSPractice5\PropertyFileProject\obj\Debug\PropertyFileProject.pdb

@@ -1,0 +1,5 @@
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadRunningProject\bin\Debug\ThreadRunningProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadRunningProject\bin\Debug\ThreadRunningProject.exe
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadRunningProject\bin\Debug\ThreadRunningProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadRunningProject\obj\Debug\ThreadRunningProject.exe
+E:\Data\GIT\csharp-dev\CSPractice6\ThreadRunningProject\obj\Debug\ThreadRunningProject.pdb

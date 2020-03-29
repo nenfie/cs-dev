@@ -1,0 +1,5 @@
+E:\Data\GIT\csharp-dev\CSPractice2\ArrayCollectionProject\bin\Debug\ArrayCollectionProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice2\ArrayCollectionProject\bin\Debug\ArrayCollectionProject.exe
+E:\Data\GIT\csharp-dev\CSPractice2\ArrayCollectionProject\bin\Debug\ArrayCollectionProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice2\ArrayCollectionProject\obj\Debug\ArrayCollectionProject.exe
+E:\Data\GIT\csharp-dev\CSPractice2\ArrayCollectionProject\obj\Debug\ArrayCollectionProject.pdb

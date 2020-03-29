@@ -1,0 +1,6 @@
+E:\Data\GIT\csharp-dev\CSPractice7\SqlConnectionProject\bin\Debug\SqlConnectionProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice7\SqlConnectionProject\bin\Debug\SqlConnectionProject.exe
+E:\Data\GIT\csharp-dev\CSPractice7\SqlConnectionProject\bin\Debug\SqlConnectionProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice7\SqlConnectionProject\obj\Debug\SqlConnectionProject.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice7\SqlConnectionProject\obj\Debug\SqlConnectionProject.exe
+E:\Data\GIT\csharp-dev\CSPractice7\SqlConnectionProject\obj\Debug\SqlConnectionProject.pdb

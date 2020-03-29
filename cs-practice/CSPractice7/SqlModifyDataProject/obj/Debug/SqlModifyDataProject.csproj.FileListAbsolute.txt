@@ -1,0 +1,9 @@
+E:\Data\GIT\csharp-dev\CSPractice7\SqlModifyDataProject\bin\Debug\SqlModifyDataProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice7\SqlModifyDataProject\bin\Debug\SqlModifyDataProject.exe
+E:\Data\GIT\csharp-dev\CSPractice7\SqlModifyDataProject\bin\Debug\SqlModifyDataProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice7\SqlModifyDataProject\obj\Debug\SqlModifyDataProject.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice7\SqlModifyDataProject\obj\Debug\SqlModifyDataProject.FrmCreateDivisi.resources
+E:\Data\GIT\csharp-dev\CSPractice7\SqlModifyDataProject\obj\Debug\SqlModifyDataProject.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice7\SqlModifyDataProject\obj\Debug\SqlModifyDataProject.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice7\SqlModifyDataProject\obj\Debug\SqlModifyDataProject.exe
+E:\Data\GIT\csharp-dev\CSPractice7\SqlModifyDataProject\obj\Debug\SqlModifyDataProject.pdb

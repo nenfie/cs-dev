@@ -1,0 +1,9 @@
+E:\Data\GIT\csharp-dev\CSPractice4\CommonControlProject2\bin\Debug\CommonControlProject2.exe.config
+E:\Data\GIT\csharp-dev\CSPractice4\CommonControlProject2\bin\Debug\CommonControlProject2.exe
+E:\Data\GIT\csharp-dev\CSPractice4\CommonControlProject2\bin\Debug\CommonControlProject2.pdb
+E:\Data\GIT\csharp-dev\CSPractice4\CommonControlProject2\obj\Debug\CommonControlProject2.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice4\CommonControlProject2\obj\Debug\CommonControlProject2.FrmCommonControl2.resources
+E:\Data\GIT\csharp-dev\CSPractice4\CommonControlProject2\obj\Debug\CommonControlProject2.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice4\CommonControlProject2\obj\Debug\CommonControlProject2.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice4\CommonControlProject2\obj\Debug\CommonControlProject2.exe
+E:\Data\GIT\csharp-dev\CSPractice4\CommonControlProject2\obj\Debug\CommonControlProject2.pdb

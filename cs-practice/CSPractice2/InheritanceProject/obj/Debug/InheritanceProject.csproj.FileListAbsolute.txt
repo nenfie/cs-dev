@@ -1,0 +1,6 @@
+E:\Data\GIT\csharp-dev\CSPractice2\InheritanceProject\bin\Debug\InheritanceProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice2\InheritanceProject\bin\Debug\InheritanceProject.exe
+E:\Data\GIT\csharp-dev\CSPractice2\InheritanceProject\bin\Debug\InheritanceProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice2\InheritanceProject\obj\Debug\InheritanceProject.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice2\InheritanceProject\obj\Debug\InheritanceProject.exe
+E:\Data\GIT\csharp-dev\CSPractice2\InheritanceProject\obj\Debug\InheritanceProject.pdb

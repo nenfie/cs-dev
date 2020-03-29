@@ -1,0 +1,9 @@
+E:\Data\GIT\csharp-dev\CSPractice7\SqlCommandProject\bin\Debug\SqlCommandProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice7\SqlCommandProject\bin\Debug\SqlCommandProject.exe
+E:\Data\GIT\csharp-dev\CSPractice7\SqlCommandProject\bin\Debug\SqlCommandProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice7\SqlCommandProject\obj\Debug\SqlCommandProject.csprojResolveAssemblyReference.cache
+E:\Data\GIT\csharp-dev\CSPractice7\SqlCommandProject\obj\Debug\SqlCommandProject.FrmPegawai.resources
+E:\Data\GIT\csharp-dev\CSPractice7\SqlCommandProject\obj\Debug\SqlCommandProject.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice7\SqlCommandProject\obj\Debug\SqlCommandProject.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice7\SqlCommandProject\obj\Debug\SqlCommandProject.exe
+E:\Data\GIT\csharp-dev\CSPractice7\SqlCommandProject\obj\Debug\SqlCommandProject.pdb

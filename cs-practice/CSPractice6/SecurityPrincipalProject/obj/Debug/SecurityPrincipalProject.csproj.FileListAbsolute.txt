@@ -1,0 +1,5 @@
+E:\Data\GIT\csharp-dev\CSPractice6\SecurityPrincipalProject\bin\Debug\SecurityPrincipalProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice6\SecurityPrincipalProject\bin\Debug\SecurityPrincipalProject.exe
+E:\Data\GIT\csharp-dev\CSPractice6\SecurityPrincipalProject\bin\Debug\SecurityPrincipalProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice6\SecurityPrincipalProject\obj\Debug\SecurityPrincipalProject.exe
+E:\Data\GIT\csharp-dev\CSPractice6\SecurityPrincipalProject\obj\Debug\SecurityPrincipalProject.pdb

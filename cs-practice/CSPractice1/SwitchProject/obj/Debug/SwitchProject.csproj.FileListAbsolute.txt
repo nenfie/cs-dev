@@ -1,0 +1,8 @@
+E:\Data\GIT\csharp-dev\CSPractice1\SwitchProject\bin\Debug\SwitchProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice1\SwitchProject\bin\Debug\SwitchProject.exe
+E:\Data\GIT\csharp-dev\CSPractice1\SwitchProject\bin\Debug\SwitchProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice1\SwitchProject\obj\Debug\SwitchProject.FrmSwitch.resources
+E:\Data\GIT\csharp-dev\CSPractice1\SwitchProject\obj\Debug\SwitchProject.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice1\SwitchProject\obj\Debug\SwitchProject.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice1\SwitchProject\obj\Debug\SwitchProject.exe
+E:\Data\GIT\csharp-dev\CSPractice1\SwitchProject\obj\Debug\SwitchProject.pdb

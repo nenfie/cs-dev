@@ -1,0 +1,8 @@
+E:\Data\GIT\csharp-dev\CSPractice4\RuntimeControlProject\bin\Debug\RuntimeControlProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice4\RuntimeControlProject\bin\Debug\RuntimeControlProject.exe
+E:\Data\GIT\csharp-dev\CSPractice4\RuntimeControlProject\bin\Debug\RuntimeControlProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice4\RuntimeControlProject\obj\Debug\RuntimeControlProject.FrmRuntimeControl.resources
+E:\Data\GIT\csharp-dev\CSPractice4\RuntimeControlProject\obj\Debug\RuntimeControlProject.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice4\RuntimeControlProject\obj\Debug\RuntimeControlProject.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice4\RuntimeControlProject\obj\Debug\RuntimeControlProject.exe
+E:\Data\GIT\csharp-dev\CSPractice4\RuntimeControlProject\obj\Debug\RuntimeControlProject.pdb

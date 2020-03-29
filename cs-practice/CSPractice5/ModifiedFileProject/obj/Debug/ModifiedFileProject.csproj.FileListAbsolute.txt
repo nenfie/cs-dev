@@ -1,0 +1,8 @@
+E:\Data\GIT\csharp-dev\CSPractice5\ModifiedFileProject\bin\Debug\ModifiedFileProject.exe.config
+E:\Data\GIT\csharp-dev\CSPractice5\ModifiedFileProject\bin\Debug\ModifiedFileProject.exe
+E:\Data\GIT\csharp-dev\CSPractice5\ModifiedFileProject\bin\Debug\ModifiedFileProject.pdb
+E:\Data\GIT\csharp-dev\CSPractice5\ModifiedFileProject\obj\Debug\ModifiedFileProject.FrmModifiedFile.resources
+E:\Data\GIT\csharp-dev\CSPractice5\ModifiedFileProject\obj\Debug\ModifiedFileProject.Properties.Resources.resources
+E:\Data\GIT\csharp-dev\CSPractice5\ModifiedFileProject\obj\Debug\ModifiedFileProject.csproj.GenerateResource.Cache
+E:\Data\GIT\csharp-dev\CSPractice5\ModifiedFileProject\obj\Debug\ModifiedFileProject.exe
+E:\Data\GIT\csharp-dev\CSPractice5\ModifiedFileProject\obj\Debug\ModifiedFileProject.pdb
